@@ -7,8 +7,10 @@ name = "pypi"
 spacy = "*"
 spacy-stanza = "*"
 spacytextblob = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.11"
